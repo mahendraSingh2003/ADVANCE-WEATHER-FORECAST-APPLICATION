@@ -34,9 +34,6 @@ The Weather Forecast App is a user-friendly application designed to provide accu
   https://geolocation-db.com/json/
 ```
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Not Required**. Your API key |
 
 #### Get Another city over the World:
 
