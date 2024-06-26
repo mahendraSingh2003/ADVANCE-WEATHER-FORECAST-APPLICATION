@@ -46,7 +46,7 @@ The Weather Forecast App is a user-friendly application designed to provide accu
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| key    | `string` | **Required**. Your Api key |
+| apiKey    | `string` | **Required**. Your Api key |
 
 #### Get Api key:
 
