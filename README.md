@@ -85,7 +85,7 @@ I'm a FRONTEND DEVLOPER...
 The Avance Weather App is a comprehensive weather forecasting tool that provides real-time weather updates, detailed forecasts, and severe weather alerts.
 
 ### How do I download the Avance Weather Application?
-You can download the Avance Weather App from this link--[Weather APP](https://mahendrasingh2003.github.io/WEATHER-FORECAST-APPLICATION/)
+You can download the Avance Weather App from this link--[Weather APP](https://mahendrasingh2003.github.io/ADVANCE-WEATHER-FORECAST-APPLICATION/)
 
 ## Features
 
